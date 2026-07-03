@@ -18,7 +18,7 @@ The filtered records are written to `data/result.txt`.
 ├── data
 │   ├── testData.txt
 │   └── result.txt
-├── main.py
+├── test-task.py
 └── README.md
 ```
 
