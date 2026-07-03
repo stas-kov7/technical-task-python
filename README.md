@@ -1,4 +1,4 @@
-# Testing Task (Python)
+# Automation task (Python)
 
 ## Description
 
