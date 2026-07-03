@@ -32,7 +32,7 @@ The filtered records are written to `data/result.txt`.
 
 ```bash
 git clone <repository-url>
-cd testing-task-py
+cd technical-task-python
 ```
 
 2. Run the script:
