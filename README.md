@@ -2,7 +2,7 @@
 
 ## Description
 
-This script processes telemetry data from an input file, filters records based on predefined conditions, and saves the matching records to an output file.
+This script processes telemetry data from an input file, filters records based on predefined conditions, and saves the matching records to an output file as well as prints them to the terminal.
 
 A record is considered problematic if:
 
