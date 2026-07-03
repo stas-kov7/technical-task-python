@@ -38,7 +38,7 @@ cd testing-task-py
 2. Run the script:
 
 ```bash
-python main.py
+python test-task.py
 ```
 
 ## Input File
